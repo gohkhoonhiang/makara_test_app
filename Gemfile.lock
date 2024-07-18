@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/instacart/makara.git
-  revision: 8c75b50187a1c3ea212f5b42f3e204f7b058a4b3
-  ref: 8c75b50187a1c3ea212f5b42f3e204f7b058a4b3
+  revision: c7a60a0c0c805d48c40340b7062d3f5f0043cb97
+  ref: c7a60a0c0c805d48c40340b7062d3f5f0043cb97
   specs:
     makara (0.4.1)
       activerecord (>= 3.0.0)
@@ -120,8 +120,6 @@ GEM
       net-imap
       net-pop
       net-smtp
-    makara (0.5.1)
-      activerecord (>= 5.2.0)
     marcel (1.0.4)
     matrix (0.4.2)
     method_source (1.1.0)

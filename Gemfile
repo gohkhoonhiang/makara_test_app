@@ -14,7 +14,7 @@ gem "pg", "~> 1.1.4"
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
-gem "makara", github: "instacart/makara", ref: "8c75b50187a1c3ea212f5b42f3e204f7b058a4b3"
+gem "makara", github: "instacart/makara", ref: "c7a60a0c0c805d48c40340b7062d3f5f0043cb97"
 
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
