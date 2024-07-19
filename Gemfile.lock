@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/instacart/makara.git
+  revision: 8c75b50187a1c3ea212f5b42f3e204f7b058a4b3
+  ref: 8c75b50187a1c3ea212f5b42f3e204f7b058a4b3
+  specs:
+    makara (0.4.1)
+      activerecord (>= 3.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -245,7 +253,7 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  makara
+  makara!
   pg (~> 1.1.4)
   puma (~> 5.0)
   rails (~> 7.0.8, >= 7.0.8.4)
